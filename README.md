@@ -1,10 +1,13 @@
 # 1.Introducción
+---
 Se requiere diseñar y fabricar con impresión 3D una prensa de banco de escritorio. La prensa debe tener una abertura mínima de 100mm.
 
 # 2.Descripción
+---
 *Lo describe
 
 # 3.Finalidad del diseño
+***
 
 # 4.Componentes
 La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
