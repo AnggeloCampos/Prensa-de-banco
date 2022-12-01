@@ -56,3 +56,9 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
     src="https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg" 
     alt="Foto1">
 </img>
+
+## Ensamble final
+
+<div align="center">
+![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
+</div>
