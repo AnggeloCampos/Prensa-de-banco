@@ -27,7 +27,9 @@ En primer lugar, se realiza la pieza deslizante
 |Pieza|Tiempo [horas]|
 |---|---|
 |Deslizante|1:28:32|
+|---|---|
 |Tornillo|2:20:54|
+|---|---|
 |Base|5:07:54|
 
 La pieza deslizante tomo un tiempo de impresión de : 1 hora 28 minutos y 32 segundos.
