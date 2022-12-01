@@ -38,11 +38,7 @@ A continuación, se presentan los distintos tiempos de impresión que tomo cada 
 |Base|5:07:17|
 
 </div>
-La pieza deslizante tomo un tiempo de impresión de : 1 hora 28 minutos y 32 segundos.
 
-El tornillo tomó un tiempo de impresión de : 2 horas 20 minutos y 54 segundos.
-
-La base tomó un tiempo de impresión de: 5 horas 7 minutos y 17 segundos.
 # 7.Descripción del ensamble
 ***
 
