@@ -8,7 +8,7 @@ Se requiere diseñar y fabricar con impresión 3D una prensa de banco de escrito
 
 # 3.Finalidad del diseño
 ***
-
+La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que no ocupe mucho espacio, ergonómico.
 # 4.Componentes
 La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
 ## 4.1 Deslizante
