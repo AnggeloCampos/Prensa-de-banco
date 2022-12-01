@@ -59,6 +59,6 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 
 ## Ensamble final
 
-<div align="center">
+<div style="text-align: center;">
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
 </div>
