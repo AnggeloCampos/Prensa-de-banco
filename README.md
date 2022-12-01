@@ -23,6 +23,13 @@ La pieza tornillo, dimensiones, plano
 En primer lugar, se realiza la pieza deslizante
 ![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
 ## 6.Tiempos
+
+|Pieza|Tiempo [horas]|
+|---|---|
+|Deslizante|1:28:32|
+|Tornillo|2:20:54|
+|Base|5:07:54|
+
 La pieza deslizante tomo un tiempo de impresión de : 1 hora 28 minutos y 32 segundos.
 
 El tornillo tomó un tiempo de impresión de : 2 horas 20 minutos y 54 segundos.
