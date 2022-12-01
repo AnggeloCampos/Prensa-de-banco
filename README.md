@@ -31,3 +31,11 @@ La base tomó un tiempo de impresión de: 5 horas 7 minutos y 17 segundos.
 # 7.Descripción del ensamble
 ![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg" 
+    alt="Foto1">
+</img>
