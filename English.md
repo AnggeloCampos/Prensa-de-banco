@@ -107,19 +107,6 @@ The ensamble is very simple, since thee's only three pieces that conform the vis
 
 
 
-In the following section, we are
-![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)
-
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg" 
-    alt="Foto1">
-</img>
-
-
 
 ## Final Assembling
 

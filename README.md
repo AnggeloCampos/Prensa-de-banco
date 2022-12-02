@@ -105,17 +105,6 @@ Posterior al proceso de impresión, ocurrió un problema con la base y el tornil
 En el caso del tornillo, existieron problemas con el hilo, por lo que se optó por reemplazarlo con uno de acero, el cual fue mecanizado en el torno.
 
 Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piezas que conforman la prensa.
-![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)
-
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg" 
-    alt="Foto1">
-</img>
-
 
 
 ## Ensamble final
