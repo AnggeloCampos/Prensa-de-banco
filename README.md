@@ -44,7 +44,7 @@ La pieza completa consta de 3 componentes principales: Mandíbula, Base, Tornill
 
 
 ## 2.3 Tornillo
-La pieza tornillo, dimensiones, plano
+
 
 
 
