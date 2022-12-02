@@ -78,7 +78,7 @@ Para el proceso de impresion, se utilizó una temperatura bla bla bla, un tamañ
 
 |25%|50%|100%|
 |---|---|---|
-|![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="300" />|
+|![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="500" />|
 
 # 4.Tiempos y peso
 ***
