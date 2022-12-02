@@ -73,7 +73,7 @@ Para el proceso de impresion, se utilizó una temperatura bla bla bla, un tamañ
 
 |25%|50%|100%|
 |---|---|---|
-|![25Tornillo](https://user-images.githubusercontent.com/119521898/205371556-5c93916b-65c6-4fdb-a41d-7b58c30c954b.jpg)|![50Tornillo](https://user-images.githubusercontent.com/119521898/205371569-44667db8-c9cb-47d7-a93e-b065593fe4b8.jpg)|![Tornillo100](https://user-images.githubusercontent.com/119521898/205371948-c88673e5-5672-41b0-905e-55fa2cc52f4e.jpeg)|
+|![25Tornillo](https://user-images.githubusercontent.com/119521898/205371556-5c93916b-65c6-4fdb-a41d-7b58c30c954b.jpg)|![50Tornillo](https://user-images.githubusercontent.com/119521898/205371569-44667db8-c9cb-47d7-a93e-b065593fe4b8.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205371948-c88673e5-5672-41b0-905e-55fa2cc52f4e.jpeg" width="200" />|
 
 
 |25%|50%|100%|
