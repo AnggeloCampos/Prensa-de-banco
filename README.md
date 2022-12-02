@@ -14,10 +14,33 @@ La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que n
 La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
 ## 4.1 Deslizante
 La pieza deslizante, dimensiones, plano
+
+|Parámetro|Valor [mm]|
+|---|---|
+|Ancho máx|-|
+|Largo máx|-|
+|Altura máx|-|
+|Diámetro Hilo|-|
 ## 4.2 Base
 La pieza base, dimensiones, plano
+
+|Parámetro|Valor [mm]|
+|---|---|
+|Ancho máx|-|
+|Largo máx|-|
+|Altura máx|-|
+|Diámetro Hilo|-|
 ## 4.3 Tornillo
 La pieza tornillo, dimensiones, plano
+<div align="center">
+
+|Parámetro|Valor [mm]|
+|---|---|
+|Diametro|-|
+|Largo|-|
+|Hilo|-|
+
+</div>
 
 # 5.Proceso de impresión
 ***
@@ -27,7 +50,7 @@ En primer lugar, se realiza la pieza deslizante
 # 6.Tiempos
 ***
 
-A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la presa:
+A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa:
 
 <div align="center">
 
