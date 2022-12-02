@@ -19,8 +19,6 @@ Se adjuntan archivos de impresión.
 ***
 La pieza completa consta de 3 componentes principales: Mandíbula, Base, Tornillo.
 ## 2.1 Mandíbula
-La pieza deslizante, dimensiones, plano
-
 
 
 |Parámetro|Valor [mm]|
@@ -35,8 +33,6 @@ La pieza deslizante, dimensiones, plano
 
 
 ## 2.2 Base
-La pieza base, dimensiones, plano
-
 
 
 |Parámetro|Valor [mm]|
