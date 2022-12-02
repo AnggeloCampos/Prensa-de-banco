@@ -25,8 +25,8 @@ The complete tool consists of 3 principal compounds: Jaw, Base and Screw
 |Width max|64|
 |Length max|32|
 |Height max|36|
-|Diametro para prisionero|8|
-|Diametro para tornillo|12|
+|Set screw diameter|8|
+|Screw diameter|12|
 
 
 
@@ -39,12 +39,10 @@ The complete tool consists of 3 principal compounds: Jaw, Base and Screw
 |Width max|64|
 |Length max|200|
 |Height max|52|
-|Thread|1,5|
+
 
 
 ## 2.3 Tornillo
-La pieza tornillo, dimensiones, plano
-
 
 
 |Parameter|Value [mm]|
@@ -53,7 +51,7 @@ La pieza tornillo, dimensiones, plano
 |Diameter thread|16|
 |Min Diameter|8|
 |Length|-|
-|Hilo|1,5|
+|Thread|1,5|
 
 
 

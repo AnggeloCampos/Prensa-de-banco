@@ -1,6 +1,6 @@
 # 1.Descripción
 ---
-Una prensa/tornillo de banco es una herramienta utilizada para sujetar piezas con el fin de mantenerlas fijas mientras se le realiza algún otro proceso de secundario, típicamente limado o limpieza.
+Una prensa/tornillo de banco es una herramienta utilizada para sujetar piezas, con el fin de mantenerlas fijas mientras se le realiza algún otro proceso de secundario, típicamente limado o limpieza.
 
 La herramienta se fija en una mesa o superficie lisa, de manera firme.
 
@@ -44,7 +44,7 @@ La pieza base, dimensiones, plano
 |Ancho máx|64|
 |Largo máx|200|
 |Altura máx|52|
-|Hilo|1,5|
+
 
 
 ## 2.3 Tornillo
@@ -64,7 +64,7 @@ La pieza tornillo, dimensiones, plano
 
 # 3.Proceso de impresión
 ***
-
+En la siguiente sección, se puede observar el proceso de impresion para el 25%, 50% y 100% del totalidad de la pieza:
 
 ### Mandíbula
 |25%|50%|100%|
