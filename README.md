@@ -9,8 +9,8 @@ Para descargar los archivos de impresión, click en Code para luego Download ZIP
 La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que no ocupe mucho espacio, ergonómico.
 # 3.Componentes
 ***
-La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
-## 3.1 Deslizante
+La pieza completa consta de 3 componentes principales: Mandíbula, Base, Tornillo.
+## 3.1 Mandíbula
 La pieza deslizante, dimensiones, plano
 
 
@@ -55,7 +55,7 @@ La pieza tornillo, dimensiones, plano
 # 4.Proceso de impresión
 ***
 
-En primer lugar, se realiza la pieza deslizante
+En primer lugar, se realiza la mandíbula
 ![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
 # 5.Tiempos
 ***
@@ -66,7 +66,7 @@ A continuación, se presentan los distintos tiempos de impresión que tomo cada 
 
 |Pieza|Tiempo [horas]|
 |---|---|
-|Deslizante|1:28:32|
+|Mandíbula|1:28:32|
 |Tornillo|2:20:54|
 |Base|5:07:17|
 
