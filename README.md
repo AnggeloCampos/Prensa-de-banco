@@ -14,13 +14,11 @@ El diseño presentado corresponde a una prensa de banco, la cual tiene una abert
 
 Se adjuntan archivos de impresión.
 
-# 2.Finalidad del diseño
-***
-La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que no ocupe mucho espacio, ergonómico.
-# 3.Componentes
+
+# 2.Componentes
 ***
 La pieza completa consta de 3 componentes principales: Mandíbula, Base, Tornillo.
-## 3.1 Mandíbula
+## 2.1 Mandíbula
 La pieza deslizante, dimensiones, plano
 
 
@@ -34,7 +32,7 @@ La pieza deslizante, dimensiones, plano
 
 
 
-## 3.2 Base
+## 2.2 Base
 La pieza base, dimensiones, plano
 
 
@@ -47,7 +45,7 @@ La pieza base, dimensiones, plano
 |Hilo|1,5|
 
 
-## 3.3 Tornillo
+## 2.3 Tornillo
 La pieza tornillo, dimensiones, plano
 
 
@@ -62,27 +60,31 @@ La pieza tornillo, dimensiones, plano
 
 
 
-# 4.Proceso de impresión
+# 3.Proceso de impresión
 ***
+
+Para el proceso de impresion, se utilizó una temperatura bla bla bla, un tamaño de filamento, especificaciones blablabla
 
 En primer lugar, se realiza la mandíbula
 ![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
-# 5.Tiempos
+
+PONER MAS FOTOS
+# 4.Tiempos y peso
 ***
 
 A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa:
 
 <div align="center">
 
-|Pieza|Tiempo [horas]|
-|---|---|
-|Mandíbula|1:28:32|
-|Tornillo|2:20:54|
-|Base|5:07:17|
+|Pieza|Tiempo [horas]|Peso [gramos]|
+|---|---|---|
+|Mandíbula|1:28:32|35|
+|Tornillo|2:20:54|31|
+|Base|5:07:17|129|
 
 </div>
 
-# 6.Descripción del ensamble
+# 5.Descripción del ensamble
 ***
 
 Posterior al proceso de impresión, ocurrió un problema con la base y el tornillo, ya que la primera tuvo problemas de adherencia, el contorno de la pieza tenia partes sueltas y el hilo interior para el tornillo no se realizó de manera correcta. Se propone imprimir la pieza con una orientación diferente, agregando soportes en zonas con riesgo de poca adherencia.
@@ -104,6 +106,6 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
 
-# 7.Bibliografía
+# 6.Bibliografía
 
 El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)

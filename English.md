@@ -14,15 +14,10 @@ The design presented corresponds to a bench vise, which has an opening of 120 (m
 
 The design is based on the video by 
 
-
-
-# 2.Design purpose
-***
-La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que no ocupe mucho espacio, ergonómico.
-# 3.Components
+# 2.Components
 ***
 La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
-## 3.1 Deslizante
+## 2.1 Deslizante
 La pieza deslizante, dimensiones, plano
 
 
@@ -36,7 +31,7 @@ La pieza deslizante, dimensiones, plano
 
 
 
-## 3.2 Base
+## 2.2 Base
 La pieza base, dimensiones, plano
 
 
@@ -49,7 +44,7 @@ La pieza base, dimensiones, plano
 |Diámetro Hilo|-|
 
 
-## 3.3 Tornillo
+## 2.3 Tornillo
 La pieza tornillo, dimensiones, plano
 
 
@@ -64,12 +59,12 @@ La pieza tornillo, dimensiones, plano
 
 
 
-# 4.Printing process
+# 3.Printing process
 ***
 
 En primer lugar, se realiza la pieza deslizante
 ![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
-# 5.Tiempos
+# 4.Printing times and weight
 ***
 
 A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa:
@@ -84,7 +79,7 @@ A continuación, se presentan los distintos tiempos de impresión que tomo cada 
 
 </div>
 
-# 6.Assembling description
+# 5.Assembling description
 ***
 
 Posterior al proceso de impresión, ocurrió un problema con la base y el tornillo, ya que la primera tuvo problemas de adherencia, el contorno de la pieza tenia partes sueltas y el hilo interior para el tornillo no se realizó de manera correcta. Se propone imprimir la pieza con una orientación diferente, agregando soportes en zonas con riesgo de poca adherencia.
@@ -106,6 +101,6 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
 
-# 7.Bibliography
+# 6.Bibliography
 
 El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
