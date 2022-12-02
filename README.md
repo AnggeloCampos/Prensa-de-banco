@@ -15,7 +15,7 @@ La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornill
 ## 4.1 Deslizante
 La pieza deslizante, dimensiones, plano
 
-<div align="center">
+
 
 |Parámetro|Valor [mm]|
 |---|---|
@@ -24,12 +24,12 @@ La pieza deslizante, dimensiones, plano
 |Altura máx|-|
 |Diámetro Hilo|-|
 
-</div>
+
 
 ## 4.2 Base
 La pieza base, dimensiones, plano
 
-<div align="center">
+
 
 |Parámetro|Valor [mm]|
 |---|---|
@@ -37,25 +37,12 @@ La pieza base, dimensiones, plano
 |Largo máx|-|
 |Altura máx|-|
 |Diámetro Hilo|-|
-
-</div>
-
-
-<div align="center">
-
-|Parámetro|Valor [mm]|
-|---|---|
-|Diametro|-|
-|Largo|-|
-|Hilo|-|
-
-</div>
 
 
 ## 4.3 Tornillo
 La pieza tornillo, dimensiones, plano
 
-<div align="center">
+
 
 |Parámetro|Valor [mm]|
 |---|---|
@@ -63,7 +50,7 @@ La pieza tornillo, dimensiones, plano
 |Largo|-|
 |Hilo|-|
 
-</div>
+
 
 # 5.Proceso de impresión
 ***
