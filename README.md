@@ -126,7 +126,3 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 
 El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
 
-
-|Pieza|Tiempo [horas]|Peso [gramos]|
-|---|---|---|
-|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|

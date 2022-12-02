@@ -16,32 +16,30 @@ The design is based on the video by
 
 # 2.Components
 ***
-La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
-## 2.1 Deslizante
-La pieza deslizante, dimensiones, plano
-
+The complete tool consists of 3 principal compounds: Jaw, Base and Screw
+## 2.1 Jaw
 
 
 |Parameter|Value [mm]|
 |---|---|
-|Ancho máx|-|
-|Largo máx|-|
-|Altura máx|-|
-|Diámetro Hilo|-|
+|Width max|64|
+|Length max|32|
+|Height max|36|
+|Diametro para prisionero|8|
+|Diametro para tornillo|12|
+
 
 
 
 ## 2.2 Base
-La pieza base, dimensiones, plano
-
 
 
 |Parameter|Value [mm]|
 |---|---|
-|Ancho máx|-|
-|Largo máx|-|
-|Altura máx|-|
-|Diámetro Hilo|-|
+|Width max|64|
+|Length max|200|
+|Height max|52|
+|Thread|1,5|
 
 
 ## 2.3 Tornillo
@@ -51,41 +49,65 @@ La pieza tornillo, dimensiones, plano
 
 |Parameter|Value [mm]|
 |---|---|
-|Diametro mayor|18|
-|Diametro hilo|16|
-|Diametro menor|8|
-|Largo|-|
+|Max Diameter|18|
+|Diameter thread|16|
+|Min Diameter|8|
+|Length|-|
 |Hilo|1,5|
 
 
 
 # 3.Printing process
 ***
+For the printing process, it was used a temperature of 60°C, an a filament size.
 
-En primer lugar, se realiza la pieza deslizante
-![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
-# 4.Printing times and weight
+### Jaw
+|25%|50%|100%|
+|---|---|---|
+|![Mandibula25](https://user-images.githubusercontent.com/119521898/205370991-7fa99133-7a08-4482-933c-494db73d40a8.jpg)|![Mandibula50](https://user-images.githubusercontent.com/119521898/205371072-93e12d82-1cb6-41d1-8a88-a4547da5fca3.jpg)|![Mandibula100](https://user-images.githubusercontent.com/119521898/205371131-fd9d52ea-e8f1-4a12-8993-9d5bef6c4954.jpg)|
+
+### Screw
+
+|25%|50%|100%|
+|---|---|---|
+|![25Tornillo](https://user-images.githubusercontent.com/119521898/205371556-5c93916b-65c6-4fdb-a41d-7b58c30c954b.jpg)|![50Tornillo](https://user-images.githubusercontent.com/119521898/205371569-44667db8-c9cb-47d7-a93e-b065593fe4b8.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205371948-c88673e5-5672-41b0-905e-55fa2cc52f4e.jpeg" width="300" />|
+
+### Base
+
+|25%|50%|100%|
+|---|---|---|
+|![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="600" />|
+
+# 4.Printing time and weight
 ***
 
-A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa:
+In the following section, the different times of printing that it took to make every piece, and their weight.
 
 <div align="center">
 
-|Component|Time [hours]|
-|---|---|
-|Deslizante|1:28:32|
-|Tornillo|2:20:54|
-|Base|5:07:17|
+|Part|Time [hours]|Weight [grams]|
+|---|---|---|
+|Jaw|1:28:32|35|
+|Screw|2:20:54|31|
+|Base|5:07:17|129|
 
 </div>
 
 # 5.Assembling description
 ***
 
-Posterior al proceso de impresión, ocurrió un problema con la base y el tornillo, ya que la primera tuvo problemas de adherencia, el contorno de la pieza tenia partes sueltas y el hilo interior para el tornillo no se realizó de manera correcta. Se propone imprimir la pieza con una orientación diferente, agregando soportes en zonas con riesgo de poca adherencia.
-En el caso del tornillo, existieron problemas con el hilo, por lo que se optó por reemplazarlo con uno de acero, el cual fue mecanizado en el torno, con tal de servir de reemplazo.
+After the printing process, a problem ocurred with the base and screw, becausethe first one had problems of adhension, the contorn of the piece had loose parts. The internal thread for the screw was not made correctly.
 
-Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piezas que conforman la prensa.
+It is recomended to print the piece in a different orientation, adding supports in the zones with risk of little adhesion.
+
+In the case of the screw, there were problems with the thread, for this reason it was decided to reemplaze it with a steel screw, wich was mechanized using a lathe.
+
+The ensamble is very simple, since thee's only three pieces that conform the vise jaw.
+
+
+
+
+In the following section, we are
 ![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)
 
 <img 
@@ -97,7 +119,9 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
     alt="Foto1">
 </img>
 
-## Ensamble final
+
+
+## Final Assembling
 
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
 
