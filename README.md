@@ -79,6 +79,7 @@ En la siguiente sección, se puede observar el proceso de impresion para el 25%,
 |---|---|---|
 |![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="600" />|
 
+Para el proceso de impresión, se utilizó una temperatura de 60°C (placa) a 200°C (temperatura de trabajo). El tamaño del filamento fue de 1,75 mm.
 # 4.Tiempos y peso
 ***
 
@@ -101,6 +102,8 @@ Posterior al proceso de impresión, ocurrió un problema con la base y el tornil
 En el caso del tornillo, existieron problemas con el hilo, por lo que se optó por reemplazarlo con uno de acero, el cual fue mecanizado en el torno.
 
 Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piezas que conforman la prensa.
+
+El tornillo debe pasar a través del enroscado de la base. La sección del tornillo con diámetro menor, va conectada a la mandíbula a través de un tornillo prisionero, el cual se inserta en la parte superior de esta.
 
 
 ## Ensamble final

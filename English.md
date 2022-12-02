@@ -12,7 +12,9 @@ If a screw of that dimensions is not found, this archive has a 3D modeling, but 
 
 The design presented corresponds to a bench vise, which has an opening of 120 (mm) max. The bench vise is meant for personal use, on light and small pieces.
 
-The design is based on the video by 
+
+
+
 
 # 2.Components
 ***
@@ -57,7 +59,9 @@ The complete tool consists of 3 principal compounds: Jaw, Base and Screw
 
 # 3.Printing process
 ***
-For the printing process, it was used a temperature of 60°C, an a filament size.
+
+In the following section, you can see the printing process for a 25%, 50% and 100% of the total piece.
+
 
 ### Jaw
 |25%|50%|100%|
@@ -75,6 +79,8 @@ For the printing process, it was used a temperature of 60°C, an a filament size
 |25%|50%|100%|
 |---|---|---|
 |![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="600" />|
+
+For the printing process, it was used a temperature of 60°C (plate) to 200°C and a filament size of 1,75 mm.
 
 # 4.Printing time and weight
 ***
@@ -102,6 +108,8 @@ In the case of the screw, there were problems with the thread, for this reason i
 
 The ensamble is very simple, since thee's only three pieces that conform the vise jaw.
 
+The screw must pass through the base thread. The smaller diameter section of the screw is connected to the jaw through a set screw, which is inserted into the top of the jaw.
+
 
 
 
@@ -112,4 +120,4 @@ The ensamble is very simple, since thee's only three pieces that conform the vis
 
 # 6.Bibliography
 
-El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
+The design is based on the video by  [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
