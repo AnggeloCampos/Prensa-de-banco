@@ -14,24 +14,30 @@ La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que n
 La pieza completa consta de 3 componentes principales: Deslizante, Base, Tornillo.
 ## 4.1 Deslizante
 La pieza deslizante, dimensiones, plano
+
 <div align="center">
+
 |Parámetro|Valor [mm]|
 |---|---|
 |Ancho máx|-|
 |Largo máx|-|
 |Altura máx|-|
 |Diámetro Hilo|-|
+
 </div>
 
 ## 4.2 Base
 La pieza base, dimensiones, plano
+
 <div align="center">
+
 |Parámetro|Valor [mm]|
 |---|---|
 |Ancho máx|-|
 |Largo máx|-|
 |Altura máx|-|
 |Diámetro Hilo|-|
+
 </div>
 
 ## 4.3 Tornillo
