@@ -71,6 +71,14 @@ Para el proceso de impresion, se utilizó una temperatura bla bla bla, un tamañ
 |---|---|---|
 |![Mandibula25](https://user-images.githubusercontent.com/119521898/205370991-7fa99133-7a08-4482-933c-494db73d40a8.jpg)|![Mandibula50](https://user-images.githubusercontent.com/119521898/205371072-93e12d82-1cb6-41d1-8a88-a4547da5fca3.jpg)|![Mandibula100](https://user-images.githubusercontent.com/119521898/205371131-fd9d52ea-e8f1-4a12-8993-9d5bef6c4954.jpg)|
 
+|25%|50%|100%|
+|---|---|---|
+|![25Tornillo](https://user-images.githubusercontent.com/119521898/205371556-5c93916b-65c6-4fdb-a41d-7b58c30c954b.jpg)|![50Tornillo](https://user-images.githubusercontent.com/119521898/205371569-44667db8-c9cb-47d7-a93e-b065593fe4b8.jpg)|![Tornillo100](https://user-images.githubusercontent.com/119521898/205371948-c88673e5-5672-41b0-905e-55fa2cc52f4e.jpeg)|
+
+
+|25%|50%|100%|
+|---|---|---|
+|![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|![Base100](https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg)|
 
 
 # 4.Tiempos y peso
