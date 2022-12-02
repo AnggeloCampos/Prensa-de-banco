@@ -2,6 +2,8 @@
 ---
 Se requiere diseñar y fabricar con impresión 3D una prensa de banco de escritorio. La prensa debe tener una abertura mínima de 100mm.
 
+Para descargar los archivos de impresión, click en Code para luego Download ZIP
+
 # 2.Design purpose
 ***
 La finalidad del diseño es que sea intuitivo de usar, cómodo, práctico, que no ocupe mucho espacio, ergonómico.
