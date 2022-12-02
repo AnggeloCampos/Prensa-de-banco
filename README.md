@@ -17,10 +17,10 @@ La pieza deslizante, dimensiones, plano
 
 |Parámetro|Valor [mm]|
 |---|---|
-|Ancho máx|-|
-|Largo máx|-|
-|Altura máx|-|
-|Diámetro Hilo|-|
+|Ancho máx|64|
+|Largo máx|32|
+|Altura máx|36|
+
 
 
 
@@ -31,10 +31,10 @@ La pieza base, dimensiones, plano
 
 |Parámetro|Valor [mm]|
 |---|---|
-|Ancho máx|-|
-|Largo máx|-|
-|Altura máx|-|
-|Diámetro Hilo|-|
+|Ancho máx|64|
+|Largo máx|200|
+|Altura máx|52|
+|Hilo|1,5|
 
 
 ## 3.3 Tornillo
