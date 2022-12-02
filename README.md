@@ -67,10 +67,12 @@ La pieza tornillo, dimensiones, plano
 
 Para el proceso de impresion, se utilizó una temperatura bla bla bla, un tamaño de filamento, especificaciones blablabla
 
-En primer lugar, se realiza la mandíbula
-![WhatsApp Image 2022-11-30 at 13 31 41](https://user-images.githubusercontent.com/119521898/204872660-9d4d00d2-c1ce-4bd4-8da2-cd9124750513.jpeg)
+|25%|50%|100%|
+|---|---|---|
+|![Mandibula25](https://user-images.githubusercontent.com/119521898/205370991-7fa99133-7a08-4482-933c-494db73d40a8.jpg)|![Mandibula50](https://user-images.githubusercontent.com/119521898/205371072-93e12d82-1cb6-41d1-8a88-a4547da5fca3.jpg)|![Mandibula100](https://user-images.githubusercontent.com/119521898/205371131-fd9d52ea-e8f1-4a12-8993-9d5bef6c4954.jpg)|
 
-PONER MAS FOTOS
+
+
 # 4.Tiempos y peso
 ***
 
