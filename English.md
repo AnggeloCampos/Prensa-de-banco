@@ -1,8 +1,20 @@
 # 1.Description
 ---
-Se requiere diseñar y fabricar con impresión 3D una prensa de banco de escritorio. La prensa debe tener una abertura mínima de 100mm.
+The bench vise is a tool used to hold pieces to keep them firm and fixed meanwhile they are subjeted to secondary process, usually cleaning or filing.
 
-Para descargar los archivos de impresión, click en Code para luego Download ZIP
+The tool is fixed in a firm table or smooth suface.
+
+In this design consists of a base, slide type. On this a vise slides on it using a screw. This screw adjusts by spinning on the place to give the bench vise the wished opening and a firm hold on the piece.
+
+For the tool is recomended to buy it, that follows the dimenssions written below.
+
+If a screw of that dimensions is not found, this archive has a 3D modeling, but the printing process has to be slow and with care, but a perfect termination might not be accomplished. Mistakes ar inevitable. To make the printing process more accurate it is advasided to use an extension on the program for making supports.
+
+The design presented corresponds to a bench vise, which has an opening of 120 (mm) max. The bench vise is meant for personal use, on light and small pieces.
+
+The design is based on the video by 
+
+
 
 # 2.Design purpose
 ***

@@ -1,6 +1,16 @@
 # 1.Descripción
 ---
-Se requiere diseñar y fabricar con impresión 3D una prensa de banco de escritorio. La prensa debe tener una abertura mínima de 100mm.
+Una prensa/tornillo de banco es una herramienta utilizada para sujetar piezas con el fin de mantenerlas fijas mientras se le realiza algún otro proceso de secundario, típicamente limado o limpieza.
+
+La herramienta se fija en una mesa o superficie lisa, de manera firme.
+
+ En este diseño se cuenta con una base, tipo deslice. En esta se mueve una mandíbula a través de una deslizadera usando un tornillo. Esta se ajusta girando el tornillo para darle la abertura deseada de agarre de la herramienta
+
+Para el tornillo se recomienda comprarlo en alguna ferretería, que cumpla con las siguientes medidas y un hilo tipo 1,5.
+
+Si no se encuentra un tornillo de esas características, se ofrece en este archivo su moldeo 3D, pero se debe ser consiente que la impresión del hilo no va a ser de buena terminación, acabado y presición dimensional. Para mejorar esto se recomienda utilizar una extensión de soporte para el programa de impresión, o con una velocidad menor. Pero tener en cuenta que los errores en hilo son inevitables.
+
+El diseño presentado corresponde a una prensa de banco, la cual tiene una abertura de 120 (mm) máxima. La prensa se diseño pensando en una prensa de escritorio, por lo que su uso está destinado a un uso personal y para herramientas pequeñas.
 
 Se adjuntan archivos de impresión.
 
