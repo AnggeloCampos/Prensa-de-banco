@@ -93,3 +93,7 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 ## Ensamble final
 
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
+
+# Bibliografía
+
+El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
