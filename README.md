@@ -22,6 +22,7 @@ La pieza deslizante, dimensiones, plano
 |Altura máx|-|
 |Diámetro Hilo|-|
 </div>
+
 ## 4.2 Base
 La pieza base, dimensiones, plano
 <div align="center">
@@ -32,6 +33,7 @@ La pieza base, dimensiones, plano
 |Altura máx|-|
 |Diámetro Hilo|-|
 </div>
+
 ## 4.3 Tornillo
 La pieza tornillo, dimensiones, plano
 
