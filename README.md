@@ -46,9 +46,11 @@ La pieza tornillo, dimensiones, plano
 
 |Parámetro|Valor [mm]|
 |---|---|
-|Diametro|-|
+|Diametro mayor|18|
+|Diametro hilo|16|
+|Diametro menor|8|
 |Largo|-|
-|Hilo|-|
+|Hilo|1,5|
 
 
 
