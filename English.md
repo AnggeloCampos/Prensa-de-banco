@@ -44,7 +44,7 @@ The complete tool consists of 3 principal compounds: Jaw, Base and Screw
 
 
 
-## 2.3 Tornillo
+## 2.3 Screw
 
 
 |Parameter|Value [mm]|
@@ -52,7 +52,7 @@ The complete tool consists of 3 principal compounds: Jaw, Base and Screw
 |Max Diameter|18|
 |Diameter thread|16|
 |Min Diameter|8|
-|Length|-|
+|Length|200|
 |Thread|1,5|
 
 
@@ -80,7 +80,7 @@ In the following section, you can see the printing process for a 25%, 50% and 10
 |---|---|---|
 |![25Base](https://user-images.githubusercontent.com/119521898/205372046-f85b9e1d-b745-4bc3-8c80-304aa0f6215d.jpg)|![50Base](https://user-images.githubusercontent.com/119521898/205372062-f2d13ccf-e911-4f51-a6a5-4b0cfeee4444.jpg)|<img src="https://user-images.githubusercontent.com/119521898/205372868-b07f664f-2377-4906-b4f4-7b4c2794dd5b.jpeg" width="600" />|
 
-For the printing process, it was used a temperature of 60°C (plate) to 200°C and a filament size of 1,75 mm.
+For the printing process, it was used a temperature of 60°C (plate) to 200°C (working temperature) and a filament size of 1,75 mm.
 
 # 4.Printing time and weight
 ***
