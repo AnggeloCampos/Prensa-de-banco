@@ -8,7 +8,7 @@ La herramienta se fija en una mesa o superficie lisa, de manera firme.
 
 Para el tornillo se recomienda comprarlo en alguna ferretería, que cumpla con las siguientes medidas y un hilo tipo 1,5.
 
-Si no se encuentra un tornillo de esas características, se ofrece en este archivo su moldeo 3D, pero se debe ser consiente que la impresión del hilo no va a ser de buena terminación, acabado y presición dimensional. Para mejorar esto se recomienda utilizar una extensión de soporte para el programa de impresión, o con una velocidad menor. Pero tener en cuenta que los errores en hilo son inevitables.
+Si no se encuentra un tornillo de esas características, se ofrece en este archivo su moldeo 3D, pero se debe ser consiente que la impresión del hilo no va a ser de buena terminación, acabado y precisión dimensional. Para mejorar esto, se recomienda utilizar una extensión de soporte para el programa de impresión, o con una velocidad menor. Pero tener en cuenta que los errores en hilo son inevitables.
 
 El diseño presentado corresponde a una prensa de banco, la cual tiene una abertura de 120 (mm) máxima. La prensa se diseño pensando en una prensa de escritorio, por lo que su uso está destinado a un uso personal y para herramientas pequeñas.
 
@@ -28,6 +28,8 @@ La pieza deslizante, dimensiones, plano
 |Ancho máx|64|
 |Largo máx|32|
 |Altura máx|36|
+|Diametro para prisionero|8|
+|Diametro para tornillo|12|
 
 
 
@@ -72,7 +74,7 @@ PONER MAS FOTOS
 # 4.Tiempos y peso
 ***
 
-A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa:
+A continuación, se presentan los distintos tiempos de impresión que tomo cada pieza de la prensa y su peso:
 
 <div align="center">
 
@@ -102,6 +104,8 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
     alt="Foto1">
 </img>
 
+
+
 ## Ensamble final
 
 ![PrensaCompleta](https://user-images.githubusercontent.com/119521898/205173522-6b9402c7-dcf7-4066-a390-c6054f19bedc.jpeg)
@@ -109,3 +113,8 @@ Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piez
 # 6.Bibliografía
 
 El diseño presentado está basado en el video de [SPARK PLUG](https://www.youtube.com/watch?v=GEOp68Q8Ryw&ab_channel=SPARKPLUG)
+
+
+|Pieza|Tiempo [horas]|Peso [gramos]|
+|---|---|---|
+|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)|
