@@ -76,7 +76,7 @@ A continuación, se presentan los distintos tiempos de impresión que tomo cada 
 ***
 
 Posterior al proceso de impresión, ocurrió un problema con la base y el tornillo, ya que la primera tuvo problemas de adherencia, el contorno de la pieza tenia partes sueltas y el hilo interior para el tornillo no se realizó de manera correcta. Se propone imprimir la pieza con una orientación diferente, agregando soportes en zonas con riesgo de poca adherencia.
-En el caso del tornillo, existieron problemas con el hilo, por lo que se optó por reemplazarlo con uno de acero, el cual fue mecanizado en el torno, con tal de servir de reemplazo.
+En el caso del tornillo, existieron problemas con el hilo, por lo que se optó por reemplazarlo con uno de acero, el cual fue mecanizado en el torno.
 
 Con respecto al ensamble, este es bastante sencillo ya que se tienen solo 3 piezas que conforman la prensa.
 ![snapshot](https://user-images.githubusercontent.com/119521898/204866970-33e1e100-6c4c-4347-8576-a44f5549a479.jpg)
