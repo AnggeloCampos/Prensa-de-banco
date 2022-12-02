@@ -40,6 +40,18 @@ La pieza base, dimensiones, plano
 
 </div>
 
+
+<div align="center">
+
+|Parámetro|Valor [mm]|
+|---|---|
+|Diametro|-|
+|Largo|-|
+|Hilo|-|
+
+</div>
+
+
 ## 4.3 Tornillo
 La pieza tornillo, dimensiones, plano
 
